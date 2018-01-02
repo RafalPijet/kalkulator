@@ -1,5 +1,5 @@
 package com.kalkulator;
-
+//nowa wersja tego pliku
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
