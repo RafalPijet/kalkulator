@@ -3,7 +3,7 @@ package com.kalkulator;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
+//kolejna nowa wersja tego pliku
 public class Calculator extends JFrame implements ActionListener {
 
     private JTextField firstNumber = new JTextField("0", 5);
