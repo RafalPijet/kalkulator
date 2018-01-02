@@ -12,7 +12,7 @@ public class Calculator extends JFrame implements ActionListener {
     private JButton equals = new JButton("=");
     private JLabel result = new JLabel("");
     private JLabel info = new JLabel("wprowadź dwie liczby...");
-
+// kolejna zmiana
     public Calculator() {
         super("Dodawanie lub odejmowanie");
         setSize(320, 100);
